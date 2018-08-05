@@ -1,0 +1,147 @@
+body{
+    background-color: #f2efed;
+}
+
+/*css footer*/
+.index-social{
+    background-color:#be5254;
+    color:#fff;
+}
+.link-area{
+    padding: 30px;
+}
+.index-social a{
+    color:#fff;
+    font-size:25px;
+    display:block;
+    float:left;
+    padding:10px;
+}
+.copy-c{
+    padding-top:15px;
+}
+/*end footer*/
+
+/*Navbar*/
+
+nav {
+    background: #be5254 none repeat scroll 0 0 !important;
+    border: medium none !important;
+    letter-spacing: 4px;
+   
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-inverse .navbar-brand {
+    background: #fff none repeat scroll 0 0 !important; 
+    border-radius: 50px;
+    color: #be5254 !important;
+    height: auto;
+    margin: 3px 0 2px 0px !important;
+    padding: 12px 20px !important;
+}
+.btn-lg, .btn-group-lg > .btn {
+    border-radius: 153px;
+    font-size: 29px;
+}
+.btn-site {
+    background: #be5254 none repeat scroll 0 0;
+    color: #fff !important;
+}
+/*end navbar*/
+
+/*dashboard*/
+.book{
+
+   margin-bottom: 40px;
+}
+.pagination{
+    letter-spacing: 4px;
+}
+.pagination > li > a,
+.pagination > li > a:focus,
+.pagination > li > a:hover{
+    color:#be5254;
+}
+.pagination > li.active > a,
+.pagination > li.active > a:hover,
+.pagination > li.active > a:focus{
+    background-color: #be5254;
+    border:1px solid transparent;
+}
+
+th{
+   letter-spacing: 2px;
+}
+td{
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+/*end dashboard*/
+
+/*panel kanan*/
+.panel-heading{
+     background-color: #be5254 !important;
+     color:#ffffff !important;
+     letter-spacing: 4px;
+     font-size: 17px;
+}
+.social:hover {
+     -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+ .social {
+     -webkit-transform: scale(0.8);
+     /* Browser Variations: */
+     
+     -moz-transform: scale(0.8);
+     -o-transform: scale(0.8);
+     -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+     -o-transition-duration: 0.5s;
+     color:#ffffff;
+ }
+/*end panel*/
+
+/*searching*/
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+    border-right:0; 
+    box-shadow:0 0 0; 
+    border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+/* end searching*/
+
+
+/*Login page*/
+.cons{
+padding: 30px;
+border: 2px solid #be5254;
+border-radius: 15px 15px 15px 15px;
+letter-spacing: 3px;
+}
+.loginpanel{
+    margin-top:10%;
+    padding: 20px;
+    letter-spacing: 3px;
+
+}
+.btn{
+    letter-spacing: 3px !important;
+}
+
+
+/*info*/
+.medsos{
+    padding: 30px;
+}
